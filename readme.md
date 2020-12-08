@@ -1,7 +1,7 @@
 ### Hi there, I'm Lutfi Andriyanto 👋
 
 
-- 🔭 I'm a student of UGM Information Technology '2020
+- 🔭 I'm a student of UGM Information Engineering '2020
 - 🥅 2020 Goals: React JS
 - ⚡ Fun fact: I hate PHP, lol
 - 🌱 Just keep growing, myself!
