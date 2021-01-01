@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm a student of UGM Information Engineering '2020
-- 🥅 2020 Goals: React JS
+- 🥅 2021 Goals: PostgreSQL, Express, React, Nodejs (PERN) Stack
 - ⚡ Fun fact: I hate PHP, lol
 - 🌱 Just keep growing, myself!
 
