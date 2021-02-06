@@ -3,6 +3,7 @@
 
 - 🔭 I'm a student of UGM Information Engineering '2020
 - 🥅 2021 Goals: MongoDB, Express, React, Nodejs (MERN) Stack
+- 💡 2021 Resolution: Create better readme.md for next repos
 - ⚡ Fun fact: I hate PHP, lol
 - 🌱 Just keep growing, myself!
 
