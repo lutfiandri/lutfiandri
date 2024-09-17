@@ -1,10 +1,11 @@
 ### Hi there, I'm Lutfi Andriyanto 👋
 
-- 🔭 Undergraduate of UGM Information Technology '2020
+- 🔭 Bachelor of Information Engineering UGM
 - ⭐ Fullstack web developer, backend focused
+- 💼 Work as Backend Developer in [Lunar Inovasi](https://lunar-inovasi.co.id), a [Polytron](https://polytron.co.id) Company
 - 📚 Love to learn software architecture and machine learning
 - ⚡ Fun fact: I hate windows, but i use it ^^
-- 🌱 Stay noob, but keep growing!!!
+- 🌱 Stay noob, but keep growing!!
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; pointer-events: none; gap: 8px; padding-top: 16px; padding-bottom: 16px">
 <a href="https://github.com/lutfiandri/github-readme-stats">
