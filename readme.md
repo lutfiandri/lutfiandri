@@ -2,7 +2,7 @@
 
 - 🔭 Bachelor of Information Engineering UGM
 - ⭐ Fullstack web developer, backend focused
-- 💼 Work as Backend Developer in [Lunar Inovasi](https://lunar-inovasi.co.id), a [Polytron](https://polytron.co.id) Company
+- 💼 Work as Fullstack Developer
 - 📚 Love to learn software architecture and machine learning
 - 🌱 Stay noob, but keep growing
 
